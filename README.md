@@ -17,14 +17,9 @@ To predict accuracy of model, run the following in the terminal with own test di
 
 ### Project created with
 
-* Python 3.7.0
-NVIDIA GeoForce RTX 2060
-CUDA 11.3
-cuDNN 8.2.1.32
+* Python 3.7.0, NVIDIA GeoForce RTX 2060, CUDA 11.3, cuDNN 8.2.1.32
 
-* **Modules**
-opencv-python==4.5.2
-tensorflow==2.5.0
+* **Modules:** opencv-python==4.5.2, tensorflow==2.5.0
 
 ### Experiment
 
